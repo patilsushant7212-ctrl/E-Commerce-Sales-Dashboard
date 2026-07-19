@@ -1,15 +1,23 @@
 # E-Commerce Sales Performance Dashboard
 
-## Project Objective
+## Project Overview
 
-The objective of this project is to analyze e-commerce sales performance and provide business insights through an interactive Power BI dashboard.
+This Power BI dashboard analyzes E-Commerce sales performance and provides actionable business insights through interactive visualizations.
+
+## Objectives
+
+* Analyze Total Sales and Profit
+* Track Monthly Sales Trends
+* Identify Top Performing Products
+* Analyze Sales by Category, State, and Payment Mode
+* Provide interactive filtering using slicers
 
 ## Tools Used
 
 * Power BI
 * Power Query
 * DAX
-* Data Modeling
+* Data Modeling (Star Schema)
 
 ## Key KPIs
 
@@ -21,8 +29,9 @@ The objective of this project is to analyze e-commerce sales performance and pro
 
 ## Dashboard Features
 
+* KPI Cards
 * State-wise Sales Analysis
-* Monthly Sales Trend Analysis
+* Monthly Sales Trend
 * Top 10 Products Analysis
 * Category-wise Sales Analysis
 * Payment Mode Analysis
@@ -32,7 +41,13 @@ The objective of this project is to analyze e-commerce sales performance and pro
 ## Skills Demonstrated
 
 * Data Cleaning
+* Data Transformation
 * Data Modeling
 * DAX Measures
 * Dashboard Design
-* Business Insights Generation
+* Business Insights
+
+## Dashboard Preview
+
+See Dashboard SS.png for dashboard screenshot.
+
